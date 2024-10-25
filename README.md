@@ -20,6 +20,9 @@ Head over to https://vitejs.dev/ to learn more about configuring vite
 ## Usage
 Once installed, look for the puzzle icon in your browser. Clicking on it will display a list of your installed extensions, including "Lead Tracker."
 
+## Live Repo
+[https://aeleneh.github.io/Lead-Tracker/]
+
 ## Contribution 
 This is the third project on scrimba "Learn JavaScript" [https://v2.scrimba.com/home].
 
